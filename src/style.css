@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Odibee+Sans&display=swap');
+
+body {
+    background-color: #32393f;
+    font-family: "Odibee Sans", cursive;
+}
+.intro {
+    background-color: #f03800;
+    border: #fabe2c solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin-top: 1%;
+}
+.introHeading {
+    font-size: 90px;
+    color: #fed843;
+    margin-top: 15%;
+}
+.para {
+    font-size: 35px;
+    color: #fabe2c;
+    position: absolute;
+    margin-top: 23%;
+}
+.start-button {
+    background-color: #fabe2c;
+    position: absolute;
+    margin-top: 30%;
+    width: 250px;
+    height: 60px;
+    font-family: 'Odibee Sans', cursive;
+    font-size: 35px;
+    color: #f03800;
+    font-weight: 700;
+    border-radius: 20px;
+    box-shadow: 5px 5px 4px #f03800;
+    cursor: pointer;
+}
+.start-button:hover {
+    background-color: #f03800;
+    color: #fabe2c;
+    box-shadow: 5px 5px 4px #fabe2c;
+}
+form {
+    max-width: 55%;
+    margin-left: 23%;
+}
+.question {
+    font-size: 52px;
+    color: #fff;
+    background-color: #ff641a;
+    border: #f03800 solid;
+    border-radius: 20px;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 15px;
+}
+.section {
+    background-color: #f03800;
+    border: #ff641a solid;
+    border-radius: 20px;
+    align-items: center;
+    padding: 10px;
+    width: 990px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.answerOption {
+    font-family: "Odibee Sans", cursive;
+    font-size: 32px;
+    padding: 10px;
+    margin: 0 auto;
+    width: 650px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #f03800;
+    text-align: center;
+}
+header {
+    height: 250px;
+    width: 95%;
+    background-color: #fed843;
+    border: #f03800 solid 5px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+}
+.headerImg {
+    height: 150px;
+    width: 150px;
+    margin-top: 1.5%;
+}
+.heading {
+    max-width: 40%;
+    background: -webkit-linear-gradient(#f03800, #ff641a);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 80px;
+    margin: 0 auto;
+}
+.answers {
+    color: ghostwhite;
+    padding: 2px;
+    margin: 0 auto;
+    font-size: 30px;
+    font-weight: 100;
+    display: flex;
+    padding: 10px;
+}
+.buttons {
+    display: flex;
+    margin-bottom: 3%;
+}
+.answersButton {
+    width: 200px;
+    margin-left: 25%;
+    margin-top: 2%; 
+    height: 50px;
+    background-color: #f03800;
+    border: #ff641a solid 3px;
+    border-radius: 20px;
+    color: #fed843;
+    font-family: "Odibee Sans", curseive;
+    font-size: 28px;
+    cursor: pointer;
+    box-shadow: 5px 5px 4px #fed843;
+}
+.answersButton:hover {
+    color: #f03800;
+    background-color: #fed843;
+    box-shadow: 5px 5px 4px #f03800;
+}
+.reloadButton {
+    width: 200px;
+    margin-left: 28%;
+    margin-top: 2%;
+    height: 50px;
+    background-color: #f03800;
+    border: #ff641a solid 3px;
+    border-radius: 20px;
+    color: #fed843;
+    font-family: "Odibee Sans", curseive;
+    font-size: 28px;
+    cursor: pointer;
+    box-shadow: 5px 5px 4px #fed843;
+}
+.reloadButton:hover {
+    color: #f03800;
+    background-color: #fed843;
+    box-shadow: 5px 5px 4px #f03800;
+}
+.option {
+    color: #32393f;
+    font-size: 32px;
+    font-weight: 300;
+    padding: 5px;
+    display: flex;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.result {
+    font-size: 42px;
+    margin-right: 5%;
+    margin-top: -1%;
+    font-weight: 600;
+    color: ghostwhite;
+}
+.marks {
+    font-size: 26px;
+    font-weight: 100;
+    margin: 0 auto;
+    margin-top: 0.7%;
+    margin-left: 1%;
+    color: ghostwhite
+}
+footer {
+    background-color: #fed843;
+    border: #f03800 solid;
+    border-radius: 10px;
+    display: flex;
+    margin: 0 auto;
+    width: 95%;
+}
+p {
+    font-size: 18px;
+    margin-top: 1.5%;
+    margin-left: 2%;
+    color: #f03800;
+}
+.footerP {
+    margin-top: 1.5%;
+    margin-left: 25%;
+}
+.category {
+    font-size: 22px;
+    margin-left: 30%;
+}
+.link {
+    color: #32393f;
+}
+.link:hover {
+    color: #ff641a;
+    background-color: #32393f;
+    border-radius: 3px;
+}
