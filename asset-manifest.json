@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MarcusLee145/quiz-of-gaming/static/css/main.f6ed5e3f.css",
+    "main.js": "/MarcusLee145/quiz-of-gaming/static/js/main.338d9eb0.js",
+    "index.html": "/MarcusLee145/quiz-of-gaming/index.html",
+    "main.f6ed5e3f.css.map": "/MarcusLee145/quiz-of-gaming/static/css/main.f6ed5e3f.css.map",
+    "main.338d9eb0.js.map": "/MarcusLee145/quiz-of-gaming/static/js/main.338d9eb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6ed5e3f.css",
+    "static/js/main.338d9eb0.js"
+  ]
+}
